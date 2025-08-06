@@ -1,13 +1,8 @@
 <h1 align="center">Hi 👋, I'm elmehdi baraka</h1>
 <h3 align="center">Fullstack Developer | Building scalable web applications with modern technologies</h3>
-
-- 🔭 I’m currently Studying on **1337**
-
-- 🌱 I’m currently learning **python ,angular**
-
-- 👯 I’m looking to collaborate on **real world projects**
-
-- 📫 How to reach me **barakamehdi3@gmail.com**
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
